@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @pallavibhardwaj
-- I am currently pursuing my bachelors from College of Engineering Roorkee in Information Technology.
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking for internship and job opportunities, where i can apply my knowledge to solve real-world problems.
